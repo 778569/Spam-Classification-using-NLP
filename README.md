@@ -4,9 +4,9 @@
 1.	We start a with data set with X and Y value (X – SMS and Y- Spam or Ham value)<br>
 2.	Do preprocessing <br>
 3.	Do Feature Extraction<br>
-4.	Device data set into two potion (Traning – Have X and Y ) – Train and Test data- Split ratio 80 and 20<br>
-5.	Using Train data , Input to a ML model<br>
-6.	ML model –m Will Learn relation about X and Y<br>
+4.	Device data set into two potion (Traning – Have X and Y ) – Train and Test data- Split ratio 80 and 20
+5.	Using Train data , Input to a ML model
+6.	ML model –m Will Learn relation about X and Y
 7.	And We gave only the X to ML model and Ask to predict What is Y.
 8.	Model Predict some Y and We compare Y with the Actual Y
 9.	How many of them are correct?
