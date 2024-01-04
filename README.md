@@ -8,9 +8,9 @@
 5.	Using Train data , Input to a ML model<br>
 6.	ML model –m Will Learn relation about X and Y<br>
 7.	And We gave only the X to ML model and Ask to predict What is Y.<br>
-8.	Model Predict some Y and We compare Y with the Actual Y<br>
-9.	How many of them are correct?<br>
-10.	Check both get Accuracy  = 97 %<br>
+8.	Model Predict some Y and We compare Y with the Actual Y
+9.	How many of them are correct?
+10.	Check both get Accuracy  = 97 %
 
 
 ## About spam SMS classification
