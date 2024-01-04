@@ -1,3 +1,20 @@
+## Process
+
+![image](https://github.com/778569/Spam-Classification-using-NLP/assets/52319671/e624305d-7f1b-4f98-883f-27c89a318447)<br>
+1.	We start a with data set with X and Y value (X – SMS and Y- Spam or Ham value)<br>
+2.	Do preprocessing <br>
+3.	Do Feature Extraction<br>
+4.	Device data set into two potion (Traning – Have X and Y ) – Train and Test data- Split ratio 80 and 20<br>
+5.	Using Train data , Input to a ML model<br>
+6.	ML model –m Will Learn relation about X and Y<br>
+7.	And We gave only the X to ML model and Ask to predict What is Y.<br>
+8.	Model Predict some Y and We compare Y with the Actual Y<br>
+9.	How many of them are correct?<br>
+10.	Check both get Accuracy  = 97 %<br>
+
+
+## About spam SMS classification
+
 In here All details and describe in document. 
 
 
